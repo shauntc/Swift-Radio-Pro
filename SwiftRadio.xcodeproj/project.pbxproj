@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		28E57BE91DB1661E00E4F8FC /* ConnectionKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28E57BE81DB1661E00E4F8FC /* ConnectionKeys.swift */; };
 		2C5545BD1C1124DE00728469 /* SwiftRadioUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C5545BC1C1124DE00728469 /* SwiftRadioUITests.swift */; };
 		9409E11C1ABF6FEA00312E2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9409E11B1ABF6FEA00312E2B /* AppDelegate.swift */; };
 		9409E1241ABF6FEA00312E2B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9409E1221ABF6FEA00312E2B /* Main.storyboard */; };
@@ -70,6 +71,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		28E57BE81DB1661E00E4F8FC /* ConnectionKeys.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConnectionKeys.swift; sourceTree = "<group>"; };
 		2C5545BA1C1124DE00728469 /* SwiftRadioUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftRadioUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C5545BC1C1124DE00728469 /* SwiftRadioUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftRadioUITests.swift; sourceTree = "<group>"; };
 		2C5545BE1C1124DE00728469 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -205,6 +207,7 @@
 			isa = PBXGroup;
 			children = (
 				945DB3C11AD58E3A00495EBB /* stations.json */,
+				28E57BE81DB1661E00E4F8FC /* ConnectionKeys.swift */,
 			);
 			name = Data;
 			sourceTree = "<group>";
@@ -428,6 +431,7 @@
 				94DB0AA01B98B762005ED993 /* Misc.swift in Sources */,
 				94DB0AA31B98B762005ED993 /* SpringAnimation.swift in Sources */,
 				94DB0A961B98B762005ED993 /* DesignableLabel.swift in Sources */,
+				28E57BE91DB1661E00E4F8FC /* ConnectionKeys.swift in Sources */,
 				94DB0AA11B98B762005ED993 /* SoundPlayer.swift in Sources */,
 				94DB0A9D1B98B762005ED993 /* KeyboardLayoutConstraint.swift in Sources */,
 				94DB0AA51B98B762005ED993 /* SpringImageView.swift in Sources */,
